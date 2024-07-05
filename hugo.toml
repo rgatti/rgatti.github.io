@@ -15,7 +15,8 @@ description = "Robert - Creator. Technologist. Thinker."
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'catpuccin'
+colorPalette = 'default'
+#colorPalette = 'catpuccin'
 hideHeader = false
 
 # Intro on main page, content is markdown
@@ -24,8 +25,8 @@ homeIntroContent = """I like to build things. This is my space on the Internet
 where you can find projects I'm currently working on."""
 
 # Collection to display on home
-#homeCollectionTitle = 'Posts'
-#homeCollection = 'posts'
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -53,9 +54,9 @@ url = "https://github.com/rgatti"
 name = "home"
 url = "/"
 
-#[[params.menu]]
-#name = "posts"
-#url = "/posts"
+[[params.menu]]
+name = "posts"
+url = "/posts"
 
 #[[params.menu]]
 #name = "about"
