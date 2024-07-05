@@ -1,7 +1,7 @@
 +++
 title = 'Ansible Proxmox Inventory Plugin'
 date = 2024-07-04T08:57:41-05:00
-draft = true
+draft = false
 summary = 'Dynamically building Ansible inventory from Proxmox.'
 description = 'Dynamically building Ansible inventory from Proxmox.'
 toc = false
