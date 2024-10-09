@@ -1,0 +1,13 @@
+/* Place custom css here */
+:root {
+    --main-width: 1024px;
+
+    --h1-font-size: 1.8em;
+    --h2-font-size: 1.6em;
+    --hx-font-size: 1.2em;
+    --p-font-size: .9em;
+}
+
+code {
+    font-size: .8em;
+}
